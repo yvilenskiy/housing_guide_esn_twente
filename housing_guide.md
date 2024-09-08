@@ -14,7 +14,7 @@ Both institutions also have their own housing web pages:
 
 Your contributions towards this guide are greatly appreciated. For any questions, questions or suggestions, you can reach out to us via email `housing[at]esntwente.nl`. Moreover, you can open a  **Pull Request** to our [GitHub](https://github.com/esn-twente/guides) repo.
 
-Last update: **July 2023**.
+Last update: **September 2024**.
 
 ## Table Of Contents
 
@@ -123,6 +123,10 @@ Another safe and cheap place to find housing among international students is Mac
 
 When using Facebook or Kamernet, be aware that there is a risk of being scammed. See the paragraph on [how to get the housing I like?](#how-do-i-get-the-housing-i-like) for more tips.
 
+**Uprent**
+
+[Uprent](https://uprent.nl/?utm_source=web_article&utm_medium=media&utm_campaign=housing_guides&utm_content=esntwente_housing) combines houses from all rental platforms in the area into one feed, sends notifications about new listings, and organizes your search.
+
 **Kamernet**
 
 [Kamernet](https://kamernet.nl/huren/kamer-enschede) is a paid service. There, you will mostly find student rooms for a price of 300 ~ 450 Euro with an average size of 12sqm. It allows you to filter through offers and create a personalized profile to respond to offers. Companies, landlords/-ladies or current tenants may post offers.
@@ -216,7 +220,7 @@ When writing your “self-promotion” post, **include**:
     Nobody will read through three pages about a person. Just write the most important facts about you and why this offer is particularly interesting.
 
 ### **What does scamming (not) look like?**
-Of course, nobody wants to get scammed. But it happens. Refer to the [Tenancy Law Manual](https://lsvb.nl/wp-content/uploads/2020/10/Tenancy-law-how-does-it-work-Dutch-Student-Union-LSVb.pdf) for more information on your rights, and contact the [Housing Hotline](https://dutchstudentunion.nl/housinghotline/) for your specific question. If you see a scam on Facebook, comment below the post to help others and report it here. You can also report scammers on Kamernet.
+Of course, nobody wants to get scammed. But it happens. Refer to the [Tenancy Law Manual](https://lsvb.nl/wp-content/uploads/2020/10/Tenancy-law-how-does-it-work-Dutch-Student-Union-LSVb.pdf) for more information on your rights, and contact the [Housing Hotline](https://dutchstudentunion.nl/housinghotline/) for your specific question. You can also check [Uprent's manual to detecting scammers](https://uprent.nl/guide/detecting-scams?utm_source=web_article&utm_medium=media&utm_campaign=housing_guides&utm_content=esntwente_housing). If you see a scam on Facebook, comment below the post to help others and report it here. You can also report scammers on Kamernet.
     
 Here are some things to watch out for:
 
